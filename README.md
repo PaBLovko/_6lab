@@ -1,4 +1,4 @@
 #Условия лабораторных работ
-##[Лабораторная работа №4](https://drive.google.com/open?id=1MLWgB21iejfOg5bdIvQXvwwff42bHX08)
-Вариант 2: 1)найти минимальное число в списке. 2)найти все простые числа в списке. 
+##[Лабораторная работа №6](https://drive.google.com/file/d/102i3FVbI3RJcGpHYJmci4QZds3UjWzdc/view)
+Вариант 2: 1)найти среднее арифметическое для всех элементов коллекции. 2)подсчитать длину списка. 3)из списка строк сгенерировать список символов этих строк(использовать что-нибудь из map/flatMap/filter/reduce)
 [![Build Status](https://travis-ci.org/PaBLovko/lab5_MavenTest.svg?branch=master)](https://travis-ci.org/PaBLovko/lab5_MavenTest)
